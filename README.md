@@ -3,6 +3,6 @@
 
 http://nomulabo.com/bus_button/
 
-<iframe src="https://www.youtube.com/embed/nAZxilVlPS0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" width="560"></iframe> 
+[![次、とまります](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=nAZxilVlPS0)
     
 http://nomulabo.com/bus_button/
